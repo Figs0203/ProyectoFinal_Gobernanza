@@ -270,12 +270,12 @@ jupyter notebook cuaderno.ipynb
 
 ## Referencias
 
-- DAMA International. (2017). *DAMA-DMBOK: Data Management Body of Knowledge* (2nd ed.). Technics Publications.
+- DAMA International. (2017). *DAMA-DMBOK: Data Management Body of Knowledge* (2nd ed.). Technics Publications, ISBN 978-1-63462-234-9.
 - Congreso de la República de Colombia. (2012). Ley Estatutaria 1581 de 2012 — Protección de Datos Personales.
 - Presidencia de la República de Colombia. (2013). Decreto 1377 de 2013 — Reglamentario de la Ley 1581.
 - Congreso de la República de Colombia. (2014). Ley 1712 de 2014 — Transparencia y del Derecho de Acceso a la Información Pública Nacional.
-- Superintendencia de Industria y Comercio (SIC). Guía de Evaluación de Impacto de Privacidad.
-- Sweeney, L. (2002). k-anonymity: A model for protecting privacy. *International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems*, 10(05), 557-570.
+- Superintendencia de Industria y Comercio (SIC). *Guía para la implementación del principio de responsabilidad demostrada (Accountability)*.
+- Sweeney, L. (2002). k-anonymity: A model for protecting privacy. *International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems*, 10(05), 557-570. doi: 10.1142/S0218488502001648
 - ICFES. (2020). Datos abiertos — Resultados Saber 11. Disponible en: https://www2.icfes.gov.co/data-icfes
 - Portal de Datos Abiertos de Colombia: https://www.datos.gov.co/
 
