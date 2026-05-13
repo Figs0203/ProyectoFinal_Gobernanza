@@ -13,7 +13,7 @@ La auditoria se enfoca en evaluar la calidad de los datos, identificar informaci
 ## Contenido del Repositorio
 
 * **cuaderno.ipynb:** Cuaderno de Jupyter (o Google Colab) que ejecuta de manera secuencial la auditoria tecnica. Incluye el perfilado de datos, deteccion automatica de PII, analisis de k-anonymity y aplicacion del plan de remediacion.
-* **Informe_Final_Gobernanza.md:** Version Markdown del informe ejecutivo. Detalla el resumen de hallazgos, el mapeo de capacidades de DAMA, resultados de calidad y privacidad, y recomendaciones tecnicas.
+* **Informe_Final_Gobernanza.pdf:** Version PDF del informe ejecutivo. Detalla el resumen de hallazgos, el mapeo de capacidades de DAMA, resultados de calidad y privacidad, y recomendaciones tecnicas.
 * **images/:** Directorio que almacena las visualizaciones estadisticas generadas por el cuaderno de auditoria.
 
 *Nota: El dataset original (`Saber_11_2020-2_20260512.csv`) no se incluye directamente en el control de versiones debido a restricciones de tamano, pero puede ser descargado desde el portal datos.gov.co.*
